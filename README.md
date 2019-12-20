@@ -1,9 +1,6 @@
 # VBA_Screensaver
 A fun, simple screensaver that starts on workbook open and ends on workbook close.
 
-Why:
-Someone I care about was in the hospital. I wanted to do something logical but also artistic to take my mind off things.
-
 To Use:
 Simply open the file, enable macros.
 
